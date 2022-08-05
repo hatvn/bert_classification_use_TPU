@@ -1,0 +1,5 @@
+trc khi train
+export XRT_TPU_CONFIG="localservice;0;localhost:51011"
+
+sau khi terminate dùng lệnh này để kill hẳn:
+kill python: sudo pkill -f python3
